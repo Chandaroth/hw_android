@@ -17,7 +17,6 @@ import okhttp3.Response;
 
 public class Server {
 
-
     public Server() {
 
     }
@@ -45,6 +44,7 @@ public class Server {
                         users.add(user);
                         //System.out.println(String.valueOf("ID: "+user.getId()+"" +
                                 //"   Name: "+user.getName()));
+
 
 
                     }

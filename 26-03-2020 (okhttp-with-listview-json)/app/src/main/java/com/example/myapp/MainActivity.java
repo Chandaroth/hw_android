@@ -58,17 +58,15 @@ public class MainActivity extends AppCompatActivity implements IMyActivity{
 
     @Override
     public void getResponse(Object result, String error) {
-        User user=new User();
-        String text[];
-        for(int i=0; i<10;i++){
-            text.add(user.get)
-        }
+        /*User user=new User();
+        String text[] = {String.valueOf("ID: "+user.getId()+"" +
+                "   Name: "+user.getName())};
         listView=findViewById(R.id.listViewMain);
 
 
         //now create a  adapter class
         MyAdapter adapter=new MyAdapter(this,text);
-        listView.setAdapter(adapter);
+        listView.setAdapter(adapter);*/
 
     }
 
