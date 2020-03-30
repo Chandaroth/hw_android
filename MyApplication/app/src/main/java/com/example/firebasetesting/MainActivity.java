@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.firebasetesting;
 
 import androidx.appcompat.app.AppCompatActivity;
 
